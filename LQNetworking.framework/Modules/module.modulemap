@@ -1,0 +1,6 @@
+framework module LQNetworking {
+  umbrella header "LQNetworking.h"
+
+  export *
+  module * { export * }
+}
