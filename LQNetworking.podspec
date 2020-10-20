@@ -78,7 +78,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "git@github.com:MrFerryman/LQNetworking.git", :tag => "0.9.0" }
+  spec.source       = { :git => "https://github.com/MrFerryman/LQNetworking", :tag => "0.9.0" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
